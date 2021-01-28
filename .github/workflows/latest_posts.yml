@@ -1,19 +1,18 @@
 name: Latest posts workflow
 on:
- schedule:
-   - cron: '0 * * * *' 
- workflow_dispatch: 
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
 jobs:
- update-readme-with-blog:
-   name: Update this repo's README with latest blog posts
-   runs-on: ubuntu-latest
-   steps:
-     - uses: actions/checkout@v2
-     - uses: gautamkrishnar/blog-post-workflow@master
-       with:
-         feed_list: "https://uimarshall.medium.com/", "https://hackernoon.com/u/uimarshall"
-         max_post_count: 10
-         template: "- `$date` | [$title]($url)  $newline"
-         date_format: yyyy-mm-dd
-         tag_post_pre_newline: true
-         
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://uimarshall.medium.com/"
+          max_post_count: 10
+          template: "- `$date` | [$title]($url)  $newline"
+          date_format: yyyy-mm-dd
+          tag_post_pre_newline: true
