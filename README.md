@@ -36,7 +36,7 @@ Here are some ideas to get you started:-->
 # :rocket: GitHub Stats.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uimarshall&count_private=true&show_icons=true&theme=radical)](https://github.com/uimarshall/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uimarshall&layout=compact)](https://github.com/uimarshall/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uimarshall&theme=cobalt)](https://github.com/uimarshall/github-readme-stats)
 
 # 🦾 Skills.
 
