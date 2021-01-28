@@ -13,6 +13,4 @@ jobs:
         with:
           feed_list: "https://uimarshall.medium.com/"
           max_post_count: 10
-          template: "- `$date` | [$title]($url)  $newline"
-          date_format: yyyy-mm-dd
           tag_post_pre_newline: true
