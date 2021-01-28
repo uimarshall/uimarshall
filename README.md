@@ -27,3 +27,27 @@ Here are some ideas to get you started:-->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+
+# :pushpin: Latest Blog Posts 📌.
+
+
+# 🦾 Skills.
+
+
+[](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=node&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-MongoDb-informational?style=flat&logo=Mongodb&logoColor=white&color=4AB197)
+...
+
+<details>
+<summary>More Skills</summary>
+
+[](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
+...
+</details>
+
+
+
