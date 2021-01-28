@@ -33,14 +33,14 @@ Here are some ideas to get you started:-->
 
 <!-- BLOG-POST-LIST:END -->
 
+# :rocket: GitHub Stats.
 
-# :pushpin: Latest Blog Posts 📌.
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uimarshall&count_private=true&show_icons=true&theme=radical)](https://github.com/uimarshall/github-readme-stats)
 
 # 🦾 Skills.
 
 
-[](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=node&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=node&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MongoDb-informational?style=flat&logo=Mongodb&logoColor=white&color=4AB197)
