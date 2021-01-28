@@ -41,10 +41,20 @@ Here are some ideas to get you started:-->
 # 🦾 Skills.
 
 
-![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=node&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=Nodejs&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MongoDb-informational?style=flat&logo=Mongodb&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-RoR-informational?style=flat&logo=rubyonrails&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-NextJs-informational?style=flat&logo=nextjs&logoColor=white&color=4AB197)
 ...
 
 <details>
