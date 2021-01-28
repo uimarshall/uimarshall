@@ -25,5 +25,11 @@ Here are some ideas to get you started:-->
 
 # 📩 Latest Blog Posts.
 <!-- BLOG-POST-LIST:START -->
+- `2021-01-10` | [12 Must-Know JavaScript Array Methods To Simplify Your Code.](https://medium.com/@uimarshall/12-must-know-javascript-array-methods-to-simplify-your-code-440451c83f38?source=rss-7a35251408cc------2)  
+- `2018-10-09` | [How To Use ‘Views’ In Your Applications Database](https://medium.com/@uimarshall/how-to-use-views-in-your-applications-database-fd1744f952bf?source=rss-7a35251408cc------2)  
+- `2018-09-14` | [HASHING TECHNIQUE IN DATA STRUCTURE DEMYSTIFIED](https://medium.com/@uimarshall/hashing-technique-in-data-structure-demystified-f0670120f751?source=rss-7a35251408cc------2)  
+- `2018-08-10` | [Two Heads Are Better : Advantages of Pair Programming](https://medium.com/@uimarshall/two-heads-are-better-advantages-of-pair-programming-d755b70ff98a?source=rss-7a35251408cc------2)  
+- `2018-08-10` | [About — Me](https://medium.com/@uimarshall/about-me-faf8d7b0e042?source=rss-7a35251408cc------2)  
+
 <!-- BLOG-POST-LIST:END -->
 
