@@ -1,7 +1,7 @@
 ### Hi there, I'm Marshall 👋
 
 ### Fulltime Dad & Husband, Developer, and Teacher.
-![Visitor Count](https://profile-counter.glitch.me/uimarshall/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{uimarshall}/count.svg)
 
 <!--
 **uimarshall/uimarshall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
